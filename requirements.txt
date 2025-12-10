@@ -1,0 +1,7 @@
+../onenet_core
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
