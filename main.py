@@ -85,7 +85,7 @@ async def lifespan(app):
             print("Created 3 roles with assigned permissions")
             
             # Step 3: Create Users and assign roles
-            # Admin user
+            # Admin  user
             admin_user = User(
                 email="admin@example.com",
                 name="Admin User",
